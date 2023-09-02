@@ -1,2 +1,2 @@
-# Ecom
+# Ecoms
 Ecomerce website
